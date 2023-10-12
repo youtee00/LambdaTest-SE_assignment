@@ -1,6 +1,3 @@
 # LambdaTest-SE_assignment
 
-Create a selenium script for :
-1.   Visit amazon.in
-2.   Search for iphone13
-3.   Get the price
+Selenium script for searching iPhone 13 on Amazon and print the price of it.
